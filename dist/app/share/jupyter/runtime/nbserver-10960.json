@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\USER",
+  "password": false,
+  "pid": 10960,
+  "port": 8888,
+  "secure": false,
+  "token": "19c9a2db13ba3daa803ef7a286b8b9809592835ae593f399",
+  "url": "http://localhost:8888/"
+}
